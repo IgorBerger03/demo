@@ -8,4 +8,5 @@ public class HelloController {
     public int getSum() {
         return sum;
     }
+    String c = "Hello world";
 }
